@@ -1,0 +1,11 @@
+{
+  "name": "@pr-agent/types",
+  "version": "0.0.1",
+  "main": "./src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

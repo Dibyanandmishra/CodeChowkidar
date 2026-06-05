@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+.env.local
+*.local
+
+# Next.js
+.next
+out
+
+# drizzle
+drizzle/
+
+# logs
+*.log
+pnpm-debug.log*
